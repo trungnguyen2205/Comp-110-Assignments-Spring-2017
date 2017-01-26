@@ -1,6 +1,6 @@
 # Week 1 Project  
 
-## Your name should appear here!
+## Matthew (Trung) Nguyen
 
 <!-- leave this material as is -->
 Compiled on `r date()`.
@@ -10,4 +10,14 @@ library(DataComputing)
 ```
 <!-- put your content after this line -->
 
-Here is my content!
+The [Vietnam War](https://en.wikipedia.org/wiki/Vietnam_War) happened in Vietnam. It was very bloody. 
+
+* Happened between 1955 and 1975
+* One of the most destructive wars in history
+* Involved numerous countries
+
+1. Vietnam
+2. US
+3. USSR
+
+![South Vietnam in 1967](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/South_Vietnam_Map.jpg/440px-South_Vietnam_Map.jpg)
